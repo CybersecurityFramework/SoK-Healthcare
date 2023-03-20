@@ -1,5 +1,7 @@
 # Systematization-healthcare
-This repository includes:
-1) Complete list of Cybersecurity Regulations, Standards and Best Practices for the Healthcare Sector.
-2) Documents Mapping based on A Proposal for a European Cybersecurity Taxonomy
-3) Controls Definition branch: list of controls definitions 
+This repository includes supports and extra documents linked to the paper "A Systematization of Cybersecurity Regulations, Standards, and Guidelines
+for the Healthcare Sector".
+1) Documente List: complete list of Cybersecurity Regulations, Standards and Best Practices for the Healthcare Sector (Section 3.1 Documents Collection)
+2) Documents Taxonomy: evaluation of cybersecurity and data protection coverage area based on the Report "A Proposal for a European Cybersecurity Taxonomy" (Section 4. Findings) 
+3) Security Controls folder: for each document, list of controls definitions (Section 3.4 Controls Definition)
+4) Bibliografy: complete list of bibliographic references

@@ -1,4 +1,4 @@
-# Systematization-healthcare
+# Systematization Healthcare
 This repository includes support materials linked to the paper "A Systematization of Cybersecurity Regulations, Standards, and Guidelines
 for the Healthcare Sector": 
 1) Documente List: complete list of Cybersecurity Regulations, Standards and Best Practices for the Healthcare Sector (ref. Section 3.1 Documents Collection)

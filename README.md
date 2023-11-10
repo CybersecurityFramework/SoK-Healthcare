@@ -6,8 +6,8 @@ This repository includes support materials linked to the paper <i>"SoK: Cybersec
 <li> Security Controls folder: for each document, the list of controls definitions;</li>
 <li> Bibliography: complete list of bibliographic references. </li>
 </ul>
-
-If you utilize our resources please cite us using the following <b>BibTeX</b>
+Please cite us using the following <b>BibTeX</b> if you use our resources:<br>
+<br>
 <p>
 @INPROCEEDINGS{10297246,<br>
   author={Carello, Maria Patrizia and Marchetti-Spaccamela, Alberto and Querzoni, Leonardo and Angelini, Marco},<br>

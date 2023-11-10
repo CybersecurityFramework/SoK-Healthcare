@@ -9,14 +9,14 @@ This repository includes support materials linked to the paper <i>"SoK: Cybersec
 
 If you utilize our resources please use the following <b>BibTeX</b> to cite us:
 <p>
-@INPROCEEDINGS{10297246,
-  author={Carello, Maria Patrizia and Marchetti-Spaccamela, Alberto and Querzoni, Leonardo and Angelini, Marco},
-  booktitle={2023 IEEE International Conference on Intelligence and Security Informatics (ISI)}, 
-  title={SoK: Cybersecurity Regulations, Standards and Guidelines for the Healthcare Sector *}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-6},
+@INPROCEEDINGS{10297246,<br>
+  author={Carello, Maria Patrizia and Marchetti-Spaccamela, Alberto and Querzoni, Leonardo and Angelini, Marco},<br>
+  booktitle={2023 IEEE International Conference on Intelligence and Security Informatics (ISI)}, <br>
+  title={SoK: Cybersecurity Regulations, Standards and Guidelines for the Healthcare Sector *}, <br>
+  year={2023},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1-6},<br>
   doi={10.1109/ISI58743.2023.10297246}}
 </p>
    

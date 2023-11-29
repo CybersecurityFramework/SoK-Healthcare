@@ -6,7 +6,7 @@ This repository includes support materials linked to the paper <i>"SoK: Cybersec
 <li> Security Controls folder: for each document, the list of controls definitions;</li>
 <li> Bibliography: complete list of bibliographic references. </li>
 </ul>
-Please cite us using the following <b>BibTeX</b> if you use our resources:<br>
+If you found useful the content of this repository, or if you used,  in part  or in full, the reported materials, please acknowledge our work by citing it in the following way: 
 <br>
 <p>
 @INPROCEEDINGS{10297246,<br>
